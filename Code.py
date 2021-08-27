@@ -8,8 +8,8 @@
 # is defined from -140 to -40dBm with 1dB resolution.
 
 
-# RSRP_17 -140≤ SS-RSRP<-139  RSRP<-139 dBm
-# RSRP_18 -139≤ SS-RSRP<-138 -139≤ RSRP<-138 dBm
+# RSRP_17 -140≤ SS-RSRP<-139  
+# RSRP_18 -139≤ SS-RSRP<-138
 
 #L1 conversion 
 import math as mt 
